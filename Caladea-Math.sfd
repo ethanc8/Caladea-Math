@@ -71,61 +71,61 @@ DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2007-2019, Apostolos Syropoulos (<asyropoulos@yahoo.com),+AAoA-with Reserved Font Name Asana Math.+AAoA-Copyright (c) 2000 Young Ryu,+AAoA-with Reserved Font Name pxfonts.+AAoA-Copyright (c) 1997, 1999 Claudio Beccari, +AAoA-with Reserved Font Name gsmn1000.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl" "" "Asana Math" "Regular"
 MATH:ScriptPercentScaleDown: 73
 MATH:ScriptScriptPercentScaleDown: 60
-MATH:DelimitedSubFormulaMinHeight: 3072
-MATH:DisplayOperatorMinHeight: 2724
-MATH:MathLeading: 307 
-MATH:AxisHeight: 555 
-MATH:AccentBaseHeight: 961 
-MATH:FlattenedAccentBaseHeight: 1417 
-MATH:SubscriptShiftDown: 430 {12-17 1,0,0,0,1,1}
-MATH:SubscriptTopMax: 750 
-MATH:SubscriptBaselineDropMin: 455 
-MATH:SuperscriptShiftUp: 739 {12-12 1}
-MATH:SuperscriptShiftUpCramped: 606 {12-12 1}
-MATH:SuperscriptBottomMin: 315 
-MATH:SuperscriptBaselineDropMax: 471 
-MATH:SubSuperscriptGapMin: 297 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:SuperscriptBottomMaxWithSubscript: 776 
-MATH:SpaceAfterScript: 84 
-MATH:UpperLimitGapMin: 227 
-MATH:UpperLimitBaselineRiseMin: 410 
-MATH:LowerLimitGapMin: 342 
-MATH:LowerLimitBaselineDropMin: 1229 
-MATH:StackTopShiftUp: 102 
-MATH:StackTopDisplayStyleShiftUp: 102 
-MATH:StackBottomShiftDown: 102 
-MATH:StackBottomDisplayStyleShiftDown: 102 
-MATH:StackGapMin: 713 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:StackDisplayStyleGapMin: 1663 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:StretchStackTopShiftUp: 102 
-MATH:StretchStackBottomShiftDown: 164 
-MATH:StretchStackGapAboveMin: 164 
-MATH:StretchStackGapBelowMin: 82 
-MATH:FractionNumeratorShiftUp: 1229 
-MATH:FractionNumeratorDisplayStyleShiftUp: 1485 
-MATH:FractionDenominatorShiftDown: 1024 
-MATH:FractionDenominatorDisplayStyleShiftDown: 1454 
-MATH:FractionNumeratorGapMin: 238 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:FractionNumeratorDisplayStyleGapMin: 266 
-MATH:FractionRuleThickness: 121 
-MATH:FractionDenominatorGapMin: 238 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:FractionDenominatorDisplayStyleGapMin: 246 
-MATH:SkewedFractionHorizontalGap: 819 
-MATH:SkewedFractionVerticalGap: 123 
-MATH:OverbarVerticalGap: 358 
-MATH:OverbarRuleThickness: 154 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:OverbarExtraAscender: 154 
-MATH:UnderbarVerticalGap: 358 
-MATH:UnderbarRuleThickness: 154 {6-23 1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
-MATH:UnderbarExtraDescender: 154 
-MATH:RadicalVerticalGap: 152 {18-37 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1}
-MATH:RadicalDisplayStyleVerticalGap: 356 
-MATH:RadicalRuleThickness: 121 {6-40 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1}
-MATH:RadicalExtraAscender: 121 
-MATH:RadicalKernBeforeDegree: 569 
-MATH:RadicalKernAfterDegree: -2333 
-MATH:RadicalDegreeBottomRaisePercent: 133
-MATH:MinConnectorOverlap: 100
+MATH:DelimitedSubFormulaMinHeight: 3000
+MATH:DisplayOperatorMinHeight: 2500
+MATH:MathLeading: 300 
+MATH:AxisHeight: 585 {10-109 1,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,-1,1,1,0,1,1,1,0,1,1,0,0,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1}
+MATH:AccentBaseHeight: 976 
+MATH:FlattenedAccentBaseHeight: 1250 {11-16 -1,0,0,0,0,-1}
+MATH:SubscriptShiftDown: 418 {12-17 1,0,0,0,1,1}
+MATH:SubscriptTopMax: 760 
+MATH:SubscriptBaselineDropMin: 320 
+MATH:SuperscriptShiftUp: 750 {12-12 1}
+MATH:SuperscriptShiftUpCramped: 615 {12-12 1}
+MATH:SuperscriptBottomMin: 239 
+MATH:SuperscriptBaselineDropMax: 460 
+MATH:SubSuperscriptGapMin: 300 {6-29 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1}
+MATH:SuperscriptBottomMaxWithSubscript: 765 
+MATH:SpaceAfterScript: 85 
+MATH:UpperLimitGapMin: 133 {9-13 1,1,1,1,1}
+MATH:UpperLimitBaselineRiseMin: 500 
+MATH:LowerLimitGapMin: 133 {9-13 1,1,1,1,1}
+MATH:LowerLimitBaselineDropMin: 1240 
+MATH:StackTopShiftUp: 940 
+MATH:StackTopDisplayStyleShiftUp: 1550 
+MATH:StackBottomShiftDown: 770 
+MATH:StackBottomDisplayStyleShiftDown: 1370 
+MATH:StackGapMin: 400 {6-21 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
+MATH:StackDisplayStyleGapMin: 660 
+MATH:StretchStackTopShiftUp: 1600 
+MATH:StretchStackBottomShiftDown: 1180 
+MATH:StretchStackGapAboveMin: 133 
+MATH:StretchStackGapBelowMin: 133 {6-38 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,1,1,1}
+MATH:FractionNumeratorShiftUp: 1200 {6-7 1,1}
+MATH:FractionNumeratorDisplayStyleShiftUp: 1550 
+MATH:FractionDenominatorShiftDown: 1030 
+MATH:FractionDenominatorDisplayStyleShiftDown: 1370 
+MATH:FractionNumeratorGapMin: 133 {6-38 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,1,1,1}
+MATH:FractionNumeratorDisplayStyleGapMin: 260 
+MATH:FractionRuleThickness: 133 {6-100 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
+MATH:FractionDenominatorGapMin: 133 {6-38 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,1,1,1}
+MATH:FractionDenominatorDisplayStyleGapMin: 260 
+MATH:SkewedFractionHorizontalGap: 800 
+MATH:SkewedFractionVerticalGap: 133 
+MATH:OverbarVerticalGap: 345 
+MATH:OverbarRuleThickness: 133 {6-100 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
+MATH:OverbarExtraAscender: 133 
+MATH:UnderbarVerticalGap: 345 
+MATH:UnderbarRuleThickness: 133 {6-100 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
+MATH:UnderbarExtraDescender: 133 
+MATH:RadicalVerticalGap: 166 {18-50 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1}
+MATH:RadicalDisplayStyleVerticalGap: 345 
+MATH:RadicalRuleThickness: 133 {6-100 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1}
+MATH:RadicalExtraAscender: 133 
+MATH:RadicalKernBeforeDegree: 133 
+MATH:RadicalKernAfterDegree: -640 
+MATH:RadicalDegreeBottomRaisePercent: 65
+MATH:MinConnectorOverlap: 200
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
